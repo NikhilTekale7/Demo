@@ -8,7 +8,9 @@ public class Addition {
 	public  static void addition(int a , int b) {
 		
 		int c= a=+b ;
+		int d= b-a
 		System.out.println("value of c>>"+c);
+		System.out.println("value of d>>"+d);
 	}
 
 }
